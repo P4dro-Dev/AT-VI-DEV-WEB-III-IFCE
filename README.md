@@ -23,6 +23,7 @@ HTML5 + CSS3
 
 ## 📂 Estrutura Completa do Projeto
 
+```
 studytasks-vue-firebase/
 │
 ├── public/
@@ -40,9 +41,11 @@ studytasks-vue-firebase/
 ├── package.json
 ├── vite.config.js
 └── README.md
+```
 
 ## 🔧 Instalação do Vue.js
 
+```
 1. Criando o projeto Vue com Vite
 npm create vite@latest studytasks-vue-firebase --template vue
 cd studytasks-vue-firebase
@@ -51,18 +54,22 @@ npm install
 🔥 Configuração e Integração com Firebase
 2. Instalação do Firebase SDK
 npm install firebase
+```
 
 ## 🧩 Componente Principal — TaskManager.vue
 
 O componente gerencia:
-
+```
 ✔ CRUD completo
 ✔ Leitura em tempo real com onSnapshot
 ✔ Ordenação por data
 ✔ Atualização do status (concluído/não concluído)
 ✔ Exclusão permanente
+```
 
 ## 🖥️ Execução do Projeto
+
+```
 1. Instalar dependências
 npm install
 
@@ -71,6 +78,7 @@ npm run dev
 
 3. Acessar no navegador:
 http://localhost:5173/
+```
 
 ## ✅ Funcionalidades da Aplicação
 
