@@ -1,9 +1,9 @@
 
-## 📘 StudyTasks — Aplicação Vue.js Integrada ao Firebase
+## 📘| StudyTasks — Aplicação Vue.js Integrada ao Firebase
 
 Este projeto foi desenvolvido como parte da atividade prática: Instalação do Vue.js e Integração com Firebase. O objetivo é construir uma aplicação funcional para gerenciamento de tarefas de estudo utilizando Vue 3, Firebase e Firestore, seguindo boas práticas de organização, componentização e integração real-time.
 
-## 🚀 Tecnologias Utilizadas
+## 🚀| Tecnologias Utilizadas
 
 ```
 Vue.js 3 (Composition API + Vite)
@@ -21,7 +21,7 @@ JavaScript ES2023
 HTML5 + CSS3
 ```
 
-## 📂 Estrutura Completa do Projeto
+## 📂| Estrutura Completa do Projeto
 
 ```
 studytasks-vue-firebase/
@@ -43,7 +43,7 @@ studytasks-vue-firebase/
 └── README.md
 ```
 
-## 🔧 Instalação do Vue.js
+## 🔧| Instalação do Vue.js
 
 ```
 1. Criando o projeto Vue com Vite
@@ -56,7 +56,7 @@ npm install
 npm install firebase
 ```
 
-## 🧩 Componente Principal — TaskManager.vue
+## 🧩| Componente Principal — TaskManager.vue
 
 O componente gerencia:
 ```
@@ -67,7 +67,7 @@ O componente gerencia:
 ✔ Exclusão permanente
 ```
 
-## 🖥️ Execução do Projeto
+## 🖥️| Execução do Projeto
 
 ```
 1. Instalar dependências
@@ -80,7 +80,7 @@ npm run dev
 http://localhost:5173/
 ```
 
-## ✅ Funcionalidades da Aplicação
+## ✅| Funcionalidades da Aplicação
 
 Função	Descrição
 
@@ -91,11 +91,11 @@ Função	Descrição
 🔄 Atualização em Tempo Real	Firestore sincroniza automaticamente
 📊 Firebase Analytics	Monitoramento do uso da aplicação
 🎨 Tema do Projeto
+```
 
-O tema escolhido foi StudyTasks, um gerenciador de tarefas voltado para estudantes que desejam organizar atividades, conteúdos e metas de estudo de maneira simples, rápida e moderna.
+O tema escolhido foi StudyTasks, um gerenciador de tarefas voltado para estudantes que desejam organizar atividades, conteúdos e metas de estudo de maneira simples, rápida e moderna. Ele reflete:
 
-Ele reflete:
-
+```
 produtividade
 
 foco
@@ -103,10 +103,10 @@ foco
 simplicidade
 
 tecnologia moderna
-
 ```
-
-## 📘 Conclusão
+```
+```
+## 📘| Conclusão
 
 Este projeto aplica, na prática:
 
@@ -115,7 +115,10 @@ Este projeto aplica, na prática:
 ✔ Integração completa com Firebase
 ✔ CRUD completo com Firestore
 ✔ Atualização em tempo real
+
+```
 ```
 ✔ Componentização com Vue 3 (Composition API)
 ✔ Organização profissional de pastas
 ✔ Documentação completa
+```
