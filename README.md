@@ -5,6 +5,7 @@ Este projeto foi desenvolvido como parte da atividade prática: Instalação do 
 
 ## 🚀 Tecnologias Utilizadas
 
+```
 Vue.js 3 (Composition API + Vite)
 
 Firebase
@@ -18,6 +19,7 @@ Analytics
 JavaScript ES2023
 
 HTML5 + CSS3
+```
 
 ## 📂 Estrutura Completa do Projeto
 
