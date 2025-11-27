@@ -2,7 +2,7 @@
 ## 📘| StudyTasks — Aplicação Vue.js Integrada ao Firebase
  
 Este projeto foi desenvolvido como parte da atividade prática: Instalação do Vue.js e Integração com Firebase. O objetivo é construir uma aplicação funcional para gerenciamento de tarefas de estudo utilizando Vue 3, Firebase e Firestore, seguindo boas práticas de organização, componentização e integração real-time.
-
+ 
 ## 🚀| Tecnologias Utilizadas
 
 ```
